@@ -1,3 +1,14 @@
+/*
+ Program: PrimeNumber.java          Last Date of this Revision: November 2, 2024
+
+Purpose: An application that takes users input of a number and determines if its a prime number or not.
+
+Author: Rasheed Allaudin, 
+School: CHHS
+Course: Computer science 20
+ 
+ 
+ */
 package Mastery;
 
 import java.util.Scanner;
@@ -43,3 +54,13 @@ public class PrimeNumber {
         
     }
 }
+/*
+TestCase1:
+Please enter a number greater than 1: 9
+9 is not a prime number.
+
+TestCase2:
+Please enter a number greater than 1: 3
+3 is a prime number.
+
+*/

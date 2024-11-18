@@ -1,3 +1,14 @@
+/*
+ Program: MetricConversion.java          Last Date of this Revision: November 5, 2024
+
+Purpose: An application that promts the user to choose the type of metric conversion they want and then output the results of the conversion.
+
+Author: Rasheed Allaudin, 
+School: CHHS
+Course: Computer science 20
+ 
+ 
+ */
 package Mastery;
 
 import java.util.Scanner;
@@ -75,3 +86,33 @@ public class MetricConversion {
 		return value;
     }
 }
+
+/*
+TestCase1:
+Metric Conversion Menu/Chart!:
+1. inches to centimeters
+2. centimeters to inches
+3. feet to centimeters
+4. centimeters to feet
+5. yards to meters
+6. meters to yards
+7. miles to kilometers
+8. kilometers to miles
+Please choose your desired option number 1-8: 8
+Enter your value!: 45
+Result is: 27.962468153855713
+
+TestCase2:
+Metric Conversion Menu/Chart!:
+1. inches to centimeters
+2. centimeters to inches
+3. feet to centimeters
+4. centimeters to feet
+5. yards to meters
+6. meters to yards
+7. miles to kilometers
+8. kilometers to miles
+Please choose your desired option number 1-8: 5
+Enter your value!: 21
+Result is: 19.2024
+*/
