@@ -9,7 +9,7 @@ public class MySavings {
 	
 		public static <piggyBank> void main(String[] args) {
 			
-			//links piggybank to mysavings
+			//links piggyBank to mySavings
 			PiggyBank pb = new PiggyBank();
 			
 			Scanner in = new Scanner(System.in);
