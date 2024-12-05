@@ -1,3 +1,15 @@
+/*
+ Program: DigitExtractor.java          Last Date of this Revision: december 4th 2024
+
+Purpose: An application that gives an option to the user to either add a penny,nickel,dime,quarter, show total in bank, 
+or take money out of bank. User exits the program by entering 0.
+
+Author: Rasheed Allaudin, 
+School: CHHS
+Course: Computer Science 20
+ 
+ */
+
 package Masterys;
 
 import java.util.Scanner;
@@ -101,6 +113,38 @@ public class MySavings {
 		            
 		        }
 	       
-
+/*
+ TestCase1:
+ 1. Show total in bank
+2. Add a penny
+3. Add a nickel
+4. Add a dime
+5. Add a quarter
+6. Take money out of your bank
+Enter 0 to quit
+Enter your choice: 5
+Added 1 quarter
+1. Show total in bank
+2. Add a penny
+3. Add a nickel
+4. Add a dime
+5. Add a quarter
+6. Take money out of your bank
+Enter 0 to quit
+Enter your choice: 1
+Total in bank: $0.25
+1. Show total in bank
+2. Add a penny
+3. Add a nickel
+4. Add a dime
+5. Add a quarter
+6. Take money out of your bank
+Enter 0 to quit
+Enter your choice: 
+ 
+ TestCase2:
+ 
+ 
+ */
 
 

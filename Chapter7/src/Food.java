@@ -33,7 +33,7 @@ public class Food {
 		   return fat;
 	   }
 	 
-	   public int getCarbs( {
+	   public int getCarbs() {
 	      
 		   return carbs;
 	   }
@@ -43,3 +43,8 @@ public class Food {
 		   return fiber;
 	   }
 	}
+
+
+
+
+

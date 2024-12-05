@@ -1,3 +1,15 @@
+/*
+ Program: DigitExtractor.java          Last Date of this Revision: december 4th 2024
+
+Purpose: An application that gives an option to the user to show the ones place number, tens place number,
+hundreds place number, it loops until the user enters the quit option.
+
+Author: Rasheed Allaudin, 
+School: CHHS
+Course: Computer Science 20
+ 
+ */
+
 package Masterys;
 import java.util.Scanner;
 
@@ -28,7 +40,7 @@ public class DigitExtractor {
             
             System.out.print("Enter your choice: ");
             
-            //Convert input to lowercase for case-insensitivity
+            //Convert input to lowercase
             choice = scanner.next().toLowerCase().charAt(0);  
             
             //Process user choice
@@ -62,3 +74,38 @@ public class DigitExtractor {
      
     }
 }
+
+/*
+TestCase1:
+Enter an integer: 456
+show (W)hole number.
+show (O)nes place number.
+show (T)ens place number.
+show (H)undreds place number.
+(Q)uit
+Enter your choice: h
+The hundreds place digit is: 4
+show (W)hole number.
+show (O)nes place number.
+show (T)ens place number.
+show (H)undreds place number.
+(Q)uit
+Enter your choice: 
+
+TestCase2:
+Enter an integer: 33432
+show (W)hole number.
+show (O)nes place number.
+show (T)ens place number.
+show (H)undreds place number.
+(Q)uit
+Enter your choice: w
+The whole number is: 33432
+show (W)hole number.
+show (O)nes place number.
+show (T)ens place number.
+show (H)undreds place number.
+(Q)uit
+Enter your choice: 
+
+*/

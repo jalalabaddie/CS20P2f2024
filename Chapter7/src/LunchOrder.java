@@ -1,4 +1,13 @@
+/*
+ Program: LunchOrder.java          Last Date of this Revision: december 4th 2024
 
+Purpose: An application that displays the amount of fiber, carbs, and fat for each food item.
+
+Author: Rasheed Allaudin, 
+School: CHHS
+Course: Computer Science 20
+ 
+ */
 import java.util.Scanner;
 
 
@@ -72,7 +81,7 @@ public class LunchOrder
         //Print the order details for each item
         System.out.println("\nYour Order Summary:");
        
-        System.out.println("\nBurger:");
+        System.out.println("\nHamburgerS:");
       
         System.out.println("  Fat: " + burgerFat + "g");
        
@@ -111,7 +120,7 @@ public class LunchOrder
        
         System.out.println("Total fat: " + (burgerFat + saladFat + friesFat + colaFat) + "g");
        
-        System.out.println("Total carbs: " + (burgerCarbs + saladCarbs + friesCarbs + colaCarbs) + "g")
+        System.out.println("Total carbs: " + (burgerCarbs + saladCarbs + friesCarbs + colaCarbs) + "g");
        
         System.out.println("Total fiber: " + (burgerFiber + saladFiber + friesFiber + colaFiber) + "g");
 
@@ -119,3 +128,75 @@ public class LunchOrder
     }
 
 }
+
+
+/*
+TestCase1:
+Please insert the amount of hamburgers you would like: 1
+Please insert the amount of salads would you like: 1
+Please insert the amount of French Fries you would like: 1
+please enter the amount of sodas you would like: 1
+
+Your Order Summary:
+
+HamburgerS:
+  Fat: 9g
+  Carbs: 33g
+  Fiber: 1g
+
+Green Salad:
+  Fat: 1g
+  Carbs: 11g
+  Fiber: 5g
+
+French Fries:
+  Fat: 11g
+  Carbs: 36g
+  Fiber: 4g
+
+Cola:
+  Fat: 0g
+  Carbs: 38g
+  Fiber: 0g
+
+Total cost: $6.10
+Total fat: 21g
+Total carbs: 118g
+Total fiber: 10g
+
+
+
+TestCase2:
+Please insert the amount of hamburgers you would like: 12
+Please insert the amount of salads would you like: 7
+Please insert the amount of French Fries you would like: 14
+please enter the amount of sodas you would like: 13
+
+Your Order Summary:
+
+HamburgerS:
+  Fat: 108g
+  Carbs: 396g
+  Fiber: 12g
+
+Green Salad:
+  Fat: 7g
+  Carbs: 77g
+  Fiber: 35g
+
+French Fries:
+  Fat: 154g
+  Carbs: 504g
+  Fiber: 56g
+
+Cola:
+  Fat: 0g
+  Carbs: 494g
+  Fiber: 0g
+
+Total cost: $66.75
+Total fat: 269g
+Total carbs: 1471g
+Total fiber: 103g
+
+*/
