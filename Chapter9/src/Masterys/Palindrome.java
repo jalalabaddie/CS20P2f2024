@@ -1,6 +1,7 @@
 /*
  Program: Palindrome.java          Last Date of this Revision: december 9th 2024
 
+
 Purpose: An application that prompts the user to enter a phrase/string, and determines if it is a palindrome
 or not.
 

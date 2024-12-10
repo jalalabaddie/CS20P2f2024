@@ -1,5 +1,5 @@
 /*
- Program: CourseGrades.java          Last Date of this Revision: december 9th 2024
+Program: CourseGrades.java          Last Date of this Revision: december 9th 2024
 
 Purpose: An application that asks the user for test grades for 12 students. The program calculates the 
 average of the 5 test for the 12 students and displays it.

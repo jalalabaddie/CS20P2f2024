@@ -1,6 +1,7 @@
 /*
  Program: EvensAndOdds.java          Last Date of this Revision: december 9th 2024
 
+
 Purpose: An application that promts a list of odd numbers and a list of even numbers friom the range of numbers 0-99.
 
 Author: Rasheed Allaudin, 
