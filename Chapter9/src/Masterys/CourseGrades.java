@@ -161,4 +161,106 @@ The Average grade for Test 4: 77.25
 The Average grade for Test 5: 71.91666666666667
 
 TestCase2:
+Please Enter Test Grades For Student 1:
+Test 1: 98
+Test 2: 88
+Test 3: 87
+Test 4: 56
+Test 5: 54
+Please Enter Test Grades For Student 2:
+Test 1: 56
+Test 2: 89
+Test 3: 87
+Test 4: 67
+Test 5: 34
+Please Enter Test Grades For Student 3:
+Test 1: 54
+Test 2: 72
+Test 3: 85
+Test 4: 56
+Test 5: 90
+Please Enter Test Grades For Student 4:
+Test 1: 97
+Test 2: 34
+Test 3: 56
+Test 4: 76
+Test 5: 34
+Please Enter Test Grades For Student 5:
+Test 1: 5
+Test 2: 78
+Test 3: 97
+Test 4: 56
+Test 5: 76
+Please Enter Test Grades For Student 6:
+Test 1: 87
+Test 2: 34
+Test 3: 56
+Test 4: 54
+Test 5: 67
+Please Enter Test Grades For Student 7:
+Test 1: 67
+Test 2: 56
+Test 3: 70
+Test 4: 98
+Test 5: 65
+Please Enter Test Grades For Student 8:
+Test 1: 43
+Test 2: 56
+Test 3: 76
+Test 4: 87
+Test 5: 65
+Please Enter Test Grades For Student 9:
+Test 1: 65
+Test 2: 45
+Test 3: 67
+Test 4: 35
+Test 5: 67
+Please Enter Test Grades For Student 10:
+Test 1: 95
+Test 2: 65
+Test 3: 76
+Test 4: 89
+Test 5: 78
+Please Enter Test Grades For Student 11:
+Test 1: 45
+Test 2: 6
+Test 3: 7
+Test 4: 89
+Test 5: 67
+Please Enter Test Grades For Student 12:
+Test 1: 90
+Test 2: 98
+Test 3: 78
+Test 4: 60
+Test 5: 80
+Grades:
+Student 1: 98 88 87 56 54 
+Student 2: 56 89 87 67 34 
+Student 3: 54 72 85 56 90 
+Student 4: 97 34 56 76 34 
+Student 5: 5 78 97 56 76 
+Student 6: 87 34 56 54 67 
+Student 7: 67 56 70 98 65 
+Student 8: 43 56 76 87 65 
+Student 9: 65 45 67 35 67 
+Student 10: 95 65 76 89 78 
+Student 11: 45 6 7 89 67 
+Student 12: 90 98 78 60 80 
+The Average grade for Student 1: 76.6
+The Average grade for Student 2: 66.6
+The Average grade for Student 3: 71.4
+The Average grade for Student 4: 59.4
+The Average grade for Student 5: 62.4
+The Average grade for Student 6: 59.6
+The Average grade for Student 7: 71.2
+The Average grade for Student 8: 65.4
+The Average grade for Student 9: 55.8
+The Average grade for Student 10: 80.6
+The Average grade for Student 11: 42.8
+The Average grade for Student 12: 81.2
+The Average grade for Test 1: 66.83333333333333
+The Average grade for Test 2: 60.083333333333336
+The Average grade for Test 3: 70.16666666666667
+The Average grade for Test 4: 68.58333333333333
+The Average grade for Test 5: 64.75
 */
