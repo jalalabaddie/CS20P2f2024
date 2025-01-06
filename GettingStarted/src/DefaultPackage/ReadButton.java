@@ -33,13 +33,13 @@ public class ReadButton {
             }
             
             // Sleep for 10ms before checking again
-            Thread.sleep(10);
+            Thread.sleep(1);
 
             // Sleep for 1000ms (1 second) for the next iteration
             Thread.sleep(1000);
 
             // Sleep for 5000ms (5 seconds) for the next iteration
-            Thread.sleep(5000);
+            Thread.sleep(1000);
         }
     }
 }
